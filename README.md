@@ -2,6 +2,11 @@
 
 This project is a basic inventory backend database that stores IT relatede equipment and user accounts with a frontend to interact with it. This project uses Docker to run the server.
 
+# Features
+- Account creation
+- Inventory tracking and management
+- Authentication
+
 # How to run
 1. Clone this repo
 2. Execute the three commands below to get postgres image up running
@@ -16,7 +21,4 @@ This project is a basic inventory backend database that stores IT relatede equip
 8. In a new CLI, enter the `/website` folder and run `npm install`
 9. Run `npm start` to start the website
 
-# Features
-- Account creation
-- Inventory tracking and management
-- Authentication
+
