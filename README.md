@@ -14,4 +14,9 @@ This project is a basic inventory backend database that stores IT relatede equip
 6. Run `npm run reset` to reset migration files and set the table seeds
 7. Run `npm start` to start the database server
 8. In a new CLI, enter the `/website` folder and run `npm install`
-9. 
+9. Run `npm start` to start the website
+
+# Features
+- Account creation
+- Inventory tracking and management
+- Authentication
